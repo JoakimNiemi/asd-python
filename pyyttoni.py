@@ -1,5 +1,5 @@
 # Lisää oma kommentti ja nimikirjaimet alle
-
+# morony t jokke
 import time
 
 while True:
